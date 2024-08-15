@@ -46,8 +46,8 @@ public class Main {
 
     var weight1 = 40;
     var weight2 = 12;
-    var overload = weight1 % weight2;
-    System.out.println("Остаток от деления равен " + overload);
+    var result14 = weight1 % weight2;
+    System.out.println("Остаток от деления равен " + result14);
 
     var totalNumberHour = 640;
     var numberHour = 8;
